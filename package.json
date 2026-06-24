@@ -1,0 +1,19 @@
+{
+  "name": "agent-taxonomy-graph",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "publish:agents": "bun run 40_atg_publish_agents.ts",
+    "replace:covers": "bun run 60_atg_replace_agent_covers.ts",
+    "attach:avatars": "bun run 61_atg_attach_agent_avatars.ts"
+  },
+  "dependencies": {
+    "@geoprotocol/geo-sdk": "latest",
+    "dotenv": "latest",
+    "sharp": "latest",
+    "viem": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
