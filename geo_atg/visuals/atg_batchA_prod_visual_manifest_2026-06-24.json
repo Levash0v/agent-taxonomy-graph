@@ -1,0 +1,1072 @@
+{
+  "version": "atg_batchA_prod_visual_manifest_2026-06-24",
+  "space_id": "41e851610e13a19441c4d980f2f2ce6b",
+  "records": [
+    {
+      "agent_id": "aaif-goose-goose",
+      "display_name": "Goose",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/aaif-goose/goose",
+      "website_url": "https://block.github.io/goose",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/goose-cover-card-16x9.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/goose-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 385,
+        "height": 385,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "ag2ai-ag2",
+      "display_name": "AG2",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/ag2ai/ag2",
+      "website_url": "https://ag2.ai",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/ag2-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "RGBA",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/ag2-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 290,
+        "height": 290,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "aider-ai-aider",
+      "display_name": "Aider",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/Aider-AI/aider",
+      "website_url": "https://aider.chat",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/aider-ai-aider-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/aider-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 384,
+        "height": 384,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "anomalyco-opencode",
+      "display_name": "OpenCode",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/anomalyco/opencode",
+      "website_url": "https://opencode.ai",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/opencode-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1280,
+        "height": 721,
+        "mode": "RGBA",
+        "ratio": 1.7753
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/opencode-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 400,
+        "height": 400,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "browser-use-browser-use",
+      "display_name": "Browser Use",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/browser-use/browser-use",
+      "website_url": "https://browser-use.com",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/browser-use-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "RGBA",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/browser-use-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "browserbase-stagehand",
+      "display_name": "Stagehand",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/browserbase/stagehand",
+      "website_url": "https://stagehand.dev",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/browserbase-stagehand-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/stagehand-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "bytedance-ui-tars-desktop",
+      "display_name": "UI-TARS Desktop",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/bytedance/UI-TARS-desktop",
+      "website_url": "https://agent-tars.com",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/bytedance-ui-tars-desktop-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/ui-tars-desktop-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 200,
+        "height": 200,
+        "mode": "RGBA",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "cline-cline",
+      "display_name": "Cline",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/cline/cline",
+      "website_url": "https://cline.bot",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/cline-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "RGBA",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/cline-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 160,
+        "height": 160,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "continuedev-continue",
+      "display_name": "Continue",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/continuedev/continue",
+      "website_url": "https://continue.dev",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/continuedev-continue-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/continue-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 400,
+        "height": 400,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "coze-dev-coze-studio",
+      "display_name": "Coze Studio",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/coze-dev/coze-studio",
+      "website_url": "https://github.com/coze-dev/coze-studio",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/coze-dev-coze-studio-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/coze-studio-avatar.jpg",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "crewaiinc-crewai",
+      "display_name": "CrewAI",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/crewAIInc/crewAI",
+      "website_url": "https://crewai.com",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/crewai-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "RGBA",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/crewai-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGBA",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "deepset-ai-haystack",
+      "display_name": "Haystack",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/deepset-ai/haystack",
+      "website_url": "https://haystack.deepset.ai",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/haystack-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1280,
+        "height": 640,
+        "mode": "RGB",
+        "ratio": 2.0
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/haystack-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "flowiseai-flowise",
+      "display_name": "Flowise",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/FlowiseAI/Flowise",
+      "website_url": "https://flowiseai.com",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/flowise-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "RGBA",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/flowise-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "huggingface-smolagents",
+      "display_name": "smolagents",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/huggingface/smolagents",
+      "website_url": "https://huggingface.co/docs/smolagents",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/smolagents-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 648,
+        "mode": "RGB",
+        "ratio": 1.8519
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/smolagents-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGBA",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "iofficeai-aionui",
+      "display_name": "AionUI",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/iOfficeAI/AionUi",
+      "website_url": "https://www.aionui.com",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/iofficeai-aionui-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/showcase37_gap_visuals/iofficeai-aionui-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 400,
+        "height": 400,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "karpathy-autoresearch",
+      "display_name": "Autoresearch",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/karpathy/autoresearch",
+      "website_url": "https://github.com/karpathy/autoresearch",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/karpathy-autoresearch-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/showcase37_gap_visuals/karpathy-autoresearch-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 400,
+        "height": 400,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "langchain-ai-langchain",
+      "display_name": "LangChain",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/langchain-ai/langchain",
+      "website_url": "https://langchain.com",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/langchain-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "RGBA",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/langchain-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGBA",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "langchain-ai-langgraph",
+      "display_name": "LangGraph",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/langchain-ai/langgraph",
+      "website_url": "https://www.langchain.com/langgraph",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/langgraph-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "RGBA",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/langgraph-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGBA",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "langflow-ai-langflow",
+      "display_name": "Langflow",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/langflow-ai/langflow",
+      "website_url": "https://langflow.org",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/langflow-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "RGBA",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/langflow-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGBA",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "langgenius-dify",
+      "display_name": "Dify",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/langgenius/dify",
+      "website_url": "https://dify.ai",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/dify-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "RGBA",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/dify-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "letta-ai-letta",
+      "display_name": "Letta",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/letta-ai/letta",
+      "website_url": "https://letta.com",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/letta-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "RGBA",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/letta-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "mem0ai-mem0",
+      "display_name": "Mem0",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/mem0ai/mem0",
+      "website_url": "https://mem0.ai",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/mem0-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 2400,
+        "height": 1260,
+        "mode": "RGBA",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/mem0-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "microsoft-semantic-kernel",
+      "display_name": "Semantic Kernel",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/microsoft/semantic-kernel",
+      "website_url": "https://aka.ms/semantic-kernel",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/semantic-kernel-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "P",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/semantic-kernel-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGBA",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "n8n-io-n8n",
+      "display_name": "n8n",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/n8n-io/n8n",
+      "website_url": "https://n8n.io",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/n8n-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "P",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/n8n-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "open-webui-open-webui",
+      "display_name": "Open WebUI",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/open-webui/open-webui",
+      "website_url": "https://openwebui.com",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/open-webui-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1280,
+        "height": 640,
+        "mode": "RGBA",
+        "ratio": 2.0
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/open-webui-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGBA",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "openai-codex",
+      "display_name": "Codex",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/openai/codex",
+      "website_url": "https://openai.com/index/openai-codex",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/codex-cover-card-16x9.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/codex-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 200,
+        "height": 200,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "openai-openai-agents-python",
+      "display_name": "OpenAI Agents SDK",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/openai/openai-agents-python",
+      "website_url": "https://openai.github.io/openai-agents-python",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/openai-openai-agents-python-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/openai-agents-sdk-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 200,
+        "height": 200,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "openhands-openhands",
+      "display_name": "OpenHands",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/OpenHands/OpenHands",
+      "website_url": "https://www.all-hands.dev",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/openhands-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "RGBA",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/openhands-avatar.jpg",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "run-llama-llama-index",
+      "display_name": "LlamaIndex",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/run-llama/llama_index",
+      "website_url": "https://llamaindex.ai",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/llamaindex-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1200,
+        "height": 630,
+        "mode": "P",
+        "ratio": 1.9048
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/llamaindex-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 295,
+        "height": 295,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "skyvern-ai-skyvern",
+      "display_name": "Skyvern",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/Skyvern-AI/skyvern",
+      "website_url": "https://skyvern.com",
+      "cover_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/skyvern-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 64,
+        "height": 64,
+        "mode": "RGBA",
+        "ratio": 1.0
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/skyvern-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 460,
+        "height": 460,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "swe-agent-swe-agent",
+      "display_name": "SWE-agent",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/SWE-agent/SWE-agent",
+      "website_url": "https://swe-agent.com",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/swe-agent-swe-agent-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/official_candidates/showcase30_2026-06-11/swe-agent-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 292,
+        "height": 292,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "anthropics-skills",
+      "display_name": "Anthropic Skills",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/anthropics/skills",
+      "website_url": "https://github.com/anthropics/skills",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/anthropics-skills-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/showcase37_gap_visuals/anthropics-skills-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 400,
+        "height": 400,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "cherryhq-cherry-studio",
+      "display_name": "Cherry Studio",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/CherryHQ/cherry-studio",
+      "website_url": "https://cherryai.com",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/cherryhq-cherry-studio-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/showcase37_gap_visuals/cherryhq-cherry-studio-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 400,
+        "height": 400,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "gitlawb-openclaude",
+      "display_name": "OpenClaude",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/Gitlawb/openclaude",
+      "website_url": "https://openclaude.gitlawb.com",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/gitlawb-openclaude-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/showcase37_gap_visuals/gitlawb-openclaude-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 400,
+        "height": 400,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "obra-superpowers",
+      "display_name": "Superpowers",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/obra/superpowers",
+      "website_url": "https://github.com/obra/superpowers",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/obra-superpowers-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/showcase37_gap_visuals/obra-superpowers-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 400,
+        "height": 400,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "zhayujie-cowagent",
+      "display_name": "CowAgent",
+      "target_entity_id": null,
+      "entity_state": "pending_entity_publish",
+      "status": "ready",
+      "issues": [],
+      "github_url": "https://github.com/zhayujie/CowAgent",
+      "website_url": "https://github.com/zhayujie/CowAgent",
+      "cover_file": "geo_atg/visuals/showcase37_gap_visuals/zhayujie-cowagent-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "cover_source_url": null,
+      "cover_info": {
+        "width": 1600,
+        "height": 900,
+        "mode": "RGB",
+        "ratio": 1.7778
+      },
+      "avatar_file": "geo_atg/visuals/showcase37_gap_visuals/zhayujie-cowagent-avatar.png",
+      "avatar_source_type": "github",
+      "avatar_source_url": null,
+      "avatar_info": {
+        "width": 400,
+        "height": 400,
+        "mode": "RGB",
+        "ratio": 1.0
+      },
+      "approved": true
+    },
+    {
+      "agent_id": "google-gemini-cli",
+      "name": "Gemini CLI",
+      "target_entity_id": null,
+      "status": "ready",
+      "approved": true,
+      "cover_path": "geo_atg/visuals/showcase37_gap_visuals/google-gemini-cli-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "avatar_path": "geo_atg/visuals/showcase37_gap_visuals/google-gemini-cli-avatar.png",
+      "avatar_source_type": "github"
+    },
+    {
+      "agent_id": "xai-grok",
+      "name": "Grok",
+      "target_entity_id": null,
+      "status": "ready",
+      "approved": true,
+      "cover_path": "geo_atg/visuals/showcase37_gap_visuals/xai-grok-cover.png",
+      "cover_source_type": "finalized_raw_cover",
+      "avatar_path": "geo_atg/visuals/showcase37_gap_visuals/xai-grok-avatar.png",
+      "avatar_source_type": "github"
+    }
+  ]
+}

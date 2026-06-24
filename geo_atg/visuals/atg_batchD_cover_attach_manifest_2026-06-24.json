@@ -1,0 +1,285 @@
+{
+  "version": "atg_batchD_cover_2026-06-24",
+  "space_id": "41e851610e13a19441c4d980f2f2ce6b",
+  "assets": [
+    {
+      "id": "modu-ai-moai-adk-cover",
+      "target_entity_id": null,
+      "target_entity_name": "MoAI ADK",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/modu-ai-moai-adk/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/modu-ai/moai-adk"
+    },
+    {
+      "id": "swarmclawai-swarmclaw-cover",
+      "target_entity_id": null,
+      "target_entity_name": "SwarmClaw",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/swarmclawai-swarmclaw/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/swarmclawai/swarmclaw"
+    },
+    {
+      "id": "jnmetacode-agency-orchestrator-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Agency Orchestrator",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/jnmetacode-agency-orchestrator/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/jnMetaCode/agency-orchestrator"
+    },
+    {
+      "id": "google-adk-java-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Google ADK Java",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/google-adk-java/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/google/adk-java"
+    },
+    {
+      "id": "run-llama-llama-deploy-cover",
+      "target_entity_id": null,
+      "target_entity_name": "LlamaDeploy",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/run-llama-llama-deploy/finalized-raw-cover.jpg",
+      "source_url": "https://developers.llamaindex.ai/og-image/7078764a.png"
+    },
+    {
+      "id": "agent-field-swe-af-cover",
+      "target_entity_id": null,
+      "target_entity_name": "SWE-AF",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/agent-field-swe-af/finalized-raw-cover.jpg",
+      "source_url": "https://agentfield.ai/og-image.png"
+    },
+    {
+      "id": "moonshotai-kimi-cli-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Kimi CLI",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/moonshotai-kimi-cli/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/MoonshotAI/kimi-cli"
+    },
+    {
+      "id": "google-deepmind-concordia-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Concordia",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/google-deepmind-concordia/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/google-deepmind/concordia"
+    },
+    {
+      "id": "yohey-w-multi-agent-shogun-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Multi-Agent Shogun",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/brand_cover_candidates/yohey-w-multi-agent-shogun/brand-preserving-cover.jpg",
+      "source_url": "https://github.com/yohey-w.png?size=512"
+    },
+    {
+      "id": "tesslateai-opensail-cover",
+      "target_entity_id": null,
+      "target_entity_name": "OpenSail",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/brand_cover_candidates/tesslateai-opensail/brand-preserving-cover.jpg",
+      "source_url": "https://github.com/TesslateAI.png?size=512"
+    },
+    {
+      "id": "claude-code-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Claude Code",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/claude-code/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/anthropics/claude-code"
+    },
+    {
+      "id": "github-copilot-agent-cover",
+      "target_entity_id": null,
+      "target_entity_name": "GitHub Copilot Agent",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/manual_cover_candidates/github-copilot-agent/cover.jpg",
+      "source_url": "https://tproger.ru/news/razrabotchiki-o-novom-ii-agente-github-copilot---dejstvitelno-li-on-horow-"
+    },
+    {
+      "id": "devin-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Devin",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/devin/finalized-raw-cover.jpg",
+      "source_url": "https://devin.ai/assets/images/devin-og.png"
+    },
+    {
+      "id": "gemini-code-assist-jules-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Gemini Code Assist / Jules",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/gemini-code-assist-jules/finalized-raw-cover.jpg",
+      "source_url": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png"
+    },
+    {
+      "id": "windsurf-cascade-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Windsurf Cascade",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/windsurf-cascade/finalized-raw-cover.jpg",
+      "source_url": "https://devin.ai/assets/images/desktop/og-desktop.png"
+    },
+    {
+      "id": "replit-agent-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Replit Agent",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/replit-agent/finalized-raw-cover.jpg",
+      "source_url": "https://replit.com/public/images/opengraph_rebrand.jpg"
+    },
+    {
+      "id": "jetbrains-junie-cover",
+      "target_entity_id": null,
+      "target_entity_name": "JetBrains Junie",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/jetbrains-junie/finalized-raw-cover.jpg",
+      "source_url": "https://resources.jetbrains.com/storage/products/junie/img/meta/preview.png"
+    },
+    {
+      "id": "manus-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Manus",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/manus/finalized-raw-cover.jpg",
+      "source_url": "https://files.manuscdn.com/webapp/media/ogBanner.png"
+    },
+    {
+      "id": "cursor-agent-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Cursor Agent",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/cursor-agent/finalized-raw-cover.jpg",
+      "source_url": "https://cursor.com/marketing-static/og/opengraph-default.png"
+    },
+    {
+      "id": "chatgpt-agent-operator-cover",
+      "target_entity_id": null,
+      "target_entity_name": "ChatGPT Agent / Operator",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/final_user_cover_urls/chatgpt-agent-operator/cover.jpg",
+      "source_url": "https://hi-tech.mail.ru/news/121415-chatgpt-nauchilsya-polzovatsya-brauzerom-za-cheloveka/"
+    },
+    {
+      "id": "ernie-agent-cover",
+      "target_entity_id": null,
+      "target_entity_name": "ERNIE Agent",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/brand_cover_candidates/ernie-agent/brand-preserving-cover.jpg",
+      "source_url": "https://eb-static.cdn.bcebos.com/static/logo/logo_512x512.png"
+    },
+    {
+      "id": "lovable-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Lovable",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/lovable/finalized-raw-cover.jpg",
+      "source_url": "https://lovable.dev/img/opengraph-image.png"
+    },
+    {
+      "id": "aws-q-developer-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Amazon Q Developer",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/manual_cover_candidates/aws-q-developer/cover.png",
+      "source_url": "https://cloudelligent.com/insights/blog/amazon-q-developer-review/"
+    },
+    {
+      "id": "doubao-agent-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Doubao Agent",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/small_brand_icon_covers/doubao-agent/cover.jpg",
+      "source_url": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/favicon/192x192.png"
+    },
+    {
+      "id": "kimi-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Kimi",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/small_brand_icon_covers/kimi/cover.jpg",
+      "source_url": "https://kimi.moonshot.cn/favicon.ico"
+    },
+    {
+      "id": "coze-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Coze",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/small_brand_icon_covers/coze/cover.jpg",
+      "source_url": "https://sf-coze-web-cdn.coze.com/obj/coze-web-sg/obric/coze/favicon.1970.png"
+    },
+    {
+      "id": "bolt-new-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Bolt.new",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/bolt-new/finalized-raw-cover.jpg",
+      "source_url": "https://bolt.new/static/social_preview_index.jpg"
+    },
+    {
+      "id": "perplexity-comet-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Perplexity Comet",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/final_user_cover_urls/perplexity-comet/cover.webp",
+      "source_url": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2025/1/2/perplexitys-comet-aims-to-reinvent-the-web-browser-with-ai-but-its-not-saying-how_large.jpg"
+    },
+    {
+      "id": "tongyi-agent-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Tongyi Agent",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/quality_gate_fixes/tongyi-agent/cover.jpg",
+      "source_url": null
+    },
+    {
+      "id": "v0-cover",
+      "target_entity_id": null,
+      "target_entity_name": "v0",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/v0/finalized-raw-cover.jpg",
+      "source_url": "https://v0.app/chat/api/og"
+    },
+    {
+      "id": "openclaw-openclaw-cover",
+      "target_entity_id": null,
+      "target_entity_name": "OpenClaw",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/openclaw-openclaw/finalized-raw-cover.jpg",
+      "source_url": "https://openclaw.ai/og-image.png"
+    }
+  ]
+}

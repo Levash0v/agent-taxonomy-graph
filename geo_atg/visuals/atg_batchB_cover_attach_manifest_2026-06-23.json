@@ -1,0 +1,294 @@
+{
+  "version": "atg_batchBCD_cover_attach_2026-06-23",
+  "space_id": "41e851610e13a19441c4d980f2f2ce6b",
+  "assets": [
+    {
+      "id": "infiniflow-ragflow-cover",
+      "target_entity_id": null,
+      "target_entity_name": "RAGFlow",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/infiniflow-ragflow/finalized-raw-cover.jpg",
+      "source_url": "https://ragflow.io/img/ragflow-social-card.png"
+    },
+    {
+      "id": "thedotmack-claude-mem-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Claude Mem",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/thedotmack-claude-mem/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/thedotmack/claude-mem"
+    },
+    {
+      "id": "earendil-works-pi-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Pi",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/earendil-works-pi/finalized-raw-cover.jpg",
+      "source_url": "https://pi.dev/social.png"
+    },
+    {
+      "id": "jeecgboot-jeecgboot-cover",
+      "target_entity_id": null,
+      "target_entity_name": "JeecgBoot",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/jeecgboot-jeecgboot/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/jeecgboot/JeecgBoot"
+    },
+    {
+      "id": "farion1231-cc-switch-cover",
+      "target_entity_id": null,
+      "target_entity_name": "CC Switch",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/farion1231-cc-switch/finalized-raw-cover.jpg",
+      "source_url": "https://ccswitch.io/og-image.png"
+    },
+    {
+      "id": "affaan-m-ecc-cover",
+      "target_entity_id": null,
+      "target_entity_name": "ECC",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/affaan-m-ecc/finalized-raw-cover.jpg",
+      "source_url": "https://ecc.tools/og.png"
+    },
+    {
+      "id": "bytedance-deer-flow-cover",
+      "target_entity_id": null,
+      "target_entity_name": "DeerFlow",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/bytedance-deer-flow/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/bytedance/deer-flow"
+    },
+    {
+      "id": "mintplex-labs-anything-llm-cover",
+      "target_entity_id": null,
+      "target_entity_name": "AnythingLLM",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/quality_gate_fixes/mintplex-labs-anything-llm/cover.jpg",
+      "source_url": null
+    },
+    {
+      "id": "foundationagents-metagpt-cover",
+      "target_entity_id": null,
+      "target_entity_name": "MetaGPT",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/quality_gate_fixes/foundationagents-metagpt/cover.jpg",
+      "source_url": null
+    },
+    {
+      "id": "nousresearch-hermes-agent-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Hermes Agent",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/nousresearch-hermes-agent/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/NousResearch/hermes-agent"
+    },
+    {
+      "id": "simstudioai-sim-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Sim",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/quality_gate_fixes/simstudioai-sim/cover.jpg",
+      "source_url": null
+    },
+    {
+      "id": "khoj-ai-khoj-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Khoj",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/khoj-ai-khoj/finalized-raw-cover.jpg",
+      "source_url": "https://khoj.dev/social-banner.jpg"
+    },
+    {
+      "id": "hkuds-nanobot-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Nanobot",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/brand_cover_candidates/hkuds-nanobot/brand-preserving-cover.jpg",
+      "source_url": "https://github.com/HKUDS.png?size=512"
+    },
+    {
+      "id": "copilotkit-copilotkit-cover",
+      "target_entity_id": null,
+      "target_entity_name": "CopilotKit",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/copilotkit-copilotkit/finalized-raw-cover.jpg",
+      "source_url": "https://www.copilotkit.ai/images/og/generic.webp"
+    },
+    {
+      "id": "vercel-labs-agent-browser-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Agent Browser",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/vercel-labs-agent-browser/finalized-raw-cover.jpg",
+      "source_url": "https://agent-browser.dev/og"
+    },
+    {
+      "id": "danny-avila-librechat-cover",
+      "target_entity_id": null,
+      "target_entity_name": "LibreChat",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/danny-avila-librechat/finalized-raw-cover.jpg",
+      "source_url": "https://www.librechat.ai/images/socialcards/default-image.png"
+    },
+    {
+      "id": "assafelovic-gpt-researcher-cover",
+      "target_entity_id": null,
+      "target_entity_name": "GPT Researcher",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/assafelovic-gpt-researcher/finalized-raw-cover.jpg",
+      "source_url": "https://cdn.sanity.io/images/5tlb0lxv/production/6f74416f266192b10b3d6c220af3003846e8f17c-1200x630.png?w=1200&h=630&q=90"
+    },
+    {
+      "id": "hmbown-deepseek-tui-cover",
+      "target_entity_id": null,
+      "target_entity_name": "DeepSeek TUI",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/hmbown-deepseek-tui/finalized-raw-cover.jpg",
+      "source_url": "https://cdn.deepseek.com/images/deepseek-chat-open-graph-image.jpeg"
+    },
+    {
+      "id": "composiohq-composio-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Composio",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/composiohq-composio/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/ComposioHQ/composio"
+    },
+    {
+      "id": "yeachan-heo-oh-my-claudecode-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Oh My ClaudeCode",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/yeachan-heo-oh-my-claudecode/finalized-raw-cover.jpg",
+      "source_url": "https://yeachan-heo.github.io/oh-my-claudecode-website/social-preview.jpg"
+    },
+    {
+      "id": "eosphoros-ai-db-gpt-cover",
+      "target_entity_id": null,
+      "target_entity_name": "DB-GPT",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/eosphoros-ai-db-gpt/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/eosphoros-ai/DB-GPT"
+    },
+    {
+      "id": "google-adk-python-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Google ADK Python",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/google-adk-python/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/google/adk-python"
+    },
+    {
+      "id": "openai-symphony-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Symphony",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/openai-symphony/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/openai/symphony"
+    },
+    {
+      "id": "prefecthq-fastmcp-cover",
+      "target_entity_id": null,
+      "target_entity_name": "FastMCP",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/prefecthq-fastmcp/finalized-raw-cover.jpg",
+      "source_url": "https://fastmcp.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DGet%2BStarted%26appearance%3Dlight%26title%3DWelcome%2Bto%2BFastMCP%26description%3DThe%2Bfast%252C%2BPythonic%2Bway%2Bto%2Bbuild%2BMCP%2Bservers%252C%2Bclients%252C%2Band%2Bapplications.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Ffastmcp%252FLu2sdJVHDyHdvswk%252Fassets%252Fbrand%252Fwordmark.png%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DLu2sdJVHDyHdvswk%2526q%253D85%2526s%253D67680e9b1c641023511881a24f296077%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Ffastmcp%252FLu2sdJVHDyHdvswk%252Fassets%252Fbrand%252Fwordmark-white.png%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DLu2sdJVHDyHdvswk%2526q%253D85%2526s%253D776d9c0663633c9b9782b9f3f9785960%26primaryColor%3D%25232d00f7%26lightColor%3D%25234cc9f0%26darkColor%3D%2523f72585%26backgroundLight%3D%2523EEEEEE%26backgroundDark%3D%2523222831%26background%3Dhttps%253A%252F%252Fmintcdn.com%252Ffastmcp%252F168oaHZRFMSLjT2T%252Fassets%252Fbrand%252Fthumbnail-background-4.jpeg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D168oaHZRFMSLjT2T%2526q%253D85%2526s%253Db2bfba03fb25ea2127b373353cec17e9&w=1200&q=100"
+    },
+    {
+      "id": "kilo-org-kilocode-cover",
+      "target_entity_id": null,
+      "target_entity_name": "KiloCode",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/kilo-org-kilocode/finalized-raw-cover.jpg",
+      "source_url": "https://kilo.ai/kilocode-social.png"
+    },
+    {
+      "id": "agentscope-ai-agentscope-cover",
+      "target_entity_id": null,
+      "target_entity_name": "AgentScope",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/agentscope-ai-agentscope/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/agentscope-ai/agentscope"
+    },
+    {
+      "id": "jackwener-opencli-cover",
+      "target_entity_id": null,
+      "target_entity_name": "OpenCLI",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/jackwener-opencli/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/jackwener/OpenCLI"
+    },
+    {
+      "id": "oraios-serena-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Serena",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/oraios-serena/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/oraios/serena"
+    },
+    {
+      "id": "zai-org-open-autoglm-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Open-AutoGLM",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/zai-org-open-autoglm/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/zai-org/Open-AutoGLM"
+    },
+    {
+      "id": "getzep-graphiti-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Graphiti",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/getzep-graphiti/finalized-raw-cover.jpg",
+      "source_url": "https://www.getzep.com/og-image.png"
+    },
+    {
+      "id": "elizaos-eliza-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Eliza",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/elizaos-eliza/finalized-raw-cover.jpg",
+      "source_url": "https://www.elizaos.ai/opengraph-image.png?v=2"
+    },
+    {
+      "id": "alibaba-page-agent-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Page Agent",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/alibaba-page-agent/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/alibaba/page-agent"
+    }
+  ]
+}

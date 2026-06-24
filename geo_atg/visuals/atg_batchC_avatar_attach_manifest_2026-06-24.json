@@ -1,0 +1,198 @@
+{
+  "version": "atg_batchC_avatar_2026-06-24",
+  "space_id": "41e851610e13a19441c4d980f2f2ce6b",
+  "assets": [
+    {
+      "id": "alibaba-opensandbox-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "OpenSandbox",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/alibaba-opensandbox/avatar.png"
+    },
+    {
+      "id": "microsoft-agent-framework-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Microsoft Agent Framework",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/site_og/microsoft-agent-framework/avatar.png"
+    },
+    {
+      "id": "dataelement-bisheng-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Bisheng",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/dataelement-bisheng/avatar.png"
+    },
+    {
+      "id": "qwenlm-qwen-agent-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Qwen-Agent",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/qwenlm-qwen-agent/avatar.png"
+    },
+    {
+      "id": "browseros-ai-browseros-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "BrowserOS",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/browseros-ai-browseros/avatar.png"
+    },
+    {
+      "id": "langchain-ai-open-swe-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Open SWE",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/langchain-ai-open-swe/avatar.png"
+    },
+    {
+      "id": "browser-use-browser-harness-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Browser Harness",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/site_og/browser-use-browser-harness/avatar.png"
+    },
+    {
+      "id": "browser-use-web-ui-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Browser Use Web UI",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/browser-use-web-ui/avatar.png"
+    },
+    {
+      "id": "microsoft-magentic-ui-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Magentic-UI",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/microsoft-magentic-ui/avatar.png"
+    },
+    {
+      "id": "camel-ai-camel-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "CAMEL",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/site_og/camel-ai-camel/avatar.jpg"
+    },
+    {
+      "id": "alibaba-spring-ai-alibaba-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Spring AI Alibaba",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/alibaba-spring-ai-alibaba/avatar.png"
+    },
+    {
+      "id": "smtg-ai-claude-squad-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Claude Squad",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/smtg-ai-claude-squad/avatar.png"
+    },
+    {
+      "id": "can1357-oh-my-pi-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Oh My Pi",
+      "file": "geo_atg/visuals/generated/remaining_agent_avatars/sliced/can1357-oh-my-pi-neutral-avatar.png"
+    },
+    {
+      "id": "bytedance-flowgram-ai-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "FlowGram.ai",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/bytedance-flowgram-ai/avatar.png"
+    },
+    {
+      "id": "google-adk-go-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Google ADK Go",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/site_og/google-adk-go/avatar.png"
+    },
+    {
+      "id": "browser-use-video-use-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Video Use",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/browser-use-video-use/avatar.png"
+    },
+    {
+      "id": "kuberwastaken-claurst-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Claurst",
+      "file": "geo_atg/visuals/generated/remaining_agent_avatars/sliced/kuberwastaken-claurst-neutral-avatar.png"
+    },
+    {
+      "id": "composiohq-agent-orchestrator-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Agent Orchestrator",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/composiohq-agent-orchestrator/avatar.png"
+    },
+    {
+      "id": "stagewise-io-stagewise-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Stagewise",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/stagewise-io-stagewise/avatar.png"
+    },
+    {
+      "id": "mervinpraison-praisonai-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "PraisonAI",
+      "file": "geo_atg/visuals/generated/remaining_agent_avatars/sliced/mervinpraison-praisonai-neutral-avatar.png"
+    },
+    {
+      "id": "samuraigpt-llm-wiki-agent-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "LLM Wiki Agent",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/samuraigpt-llm-wiki-agent/avatar.png"
+    },
+    {
+      "id": "modelscope-ms-agent-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "MS-Agent",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/site_og/modelscope-ms-agent/avatar.png"
+    },
+    {
+      "id": "swe-agent-mini-swe-agent-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Mini SWE-agent",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/swe-agent-mini-swe-agent/avatar.png"
+    },
+    {
+      "id": "the-open-agent-openagent-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "OpenAgent",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/the-open-agent-openagent/avatar.png"
+    },
+    {
+      "id": "agentscope-ai-reme-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "ReMe",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/agentscope-ai-reme/avatar.png"
+    },
+    {
+      "id": "agent-infra-sandbox-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Agent Infra Sandbox",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/agent-infra-sandbox/avatar.png"
+    },
+    {
+      "id": "jetbrains-koog-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Koog",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/jetbrains-koog/avatar.png"
+    },
+    {
+      "id": "openai-openai-agents-js-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "OpenAI Agents JS",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/openai-openai-agents-js/avatar.png"
+    },
+    {
+      "id": "1jehuang-jcode-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "JCode",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/1jehuang-jcode/avatar.png"
+    },
+    {
+      "id": "builderz-labs-mission-control-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Mission Control",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/builderz-labs-mission-control/avatar.jpg"
+    },
+    {
+      "id": "letta-ai-letta-code-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Letta Code",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/site_og/letta-ai-letta-code/avatar.png"
+    },
+    {
+      "id": "moazbuilds-codemachine-cli-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "CodeMachine CLI",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/site_og/moazbuilds-codemachine-cli/avatar.jpg"
+    }
+  ]
+}

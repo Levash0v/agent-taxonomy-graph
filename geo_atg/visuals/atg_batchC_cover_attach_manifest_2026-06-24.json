@@ -1,0 +1,294 @@
+{
+  "version": "atg_batchC_cover_2026-06-24",
+  "space_id": "41e851610e13a19441c4d980f2f2ce6b",
+  "assets": [
+    {
+      "id": "alibaba-opensandbox-cover",
+      "target_entity_id": null,
+      "target_entity_name": "OpenSandbox",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/alibaba-opensandbox/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/alibaba/OpenSandbox"
+    },
+    {
+      "id": "microsoft-agent-framework-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Microsoft Agent Framework",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/microsoft-agent-framework/finalized-raw-cover.jpg",
+      "source_url": "https://learn.microsoft.com/en-us/media/open-graph-image.png"
+    },
+    {
+      "id": "dataelement-bisheng-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Bisheng",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/dataelement-bisheng/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/dataelement/bisheng"
+    },
+    {
+      "id": "qwenlm-qwen-agent-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Qwen-Agent",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/qwenlm-qwen-agent/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/QwenLM/Qwen-Agent"
+    },
+    {
+      "id": "browseros-ai-browseros-cover",
+      "target_entity_id": null,
+      "target_entity_name": "BrowserOS",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/browseros-ai-browseros/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/browseros-ai/BrowserOS"
+    },
+    {
+      "id": "langchain-ai-open-swe-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Open SWE",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/brand_cover_candidates/langchain-ai-open-swe/brand-preserving-cover.jpg",
+      "source_url": "https://github.com/langchain-ai.png?size=512"
+    },
+    {
+      "id": "browser-use-browser-harness-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Browser Harness",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/browser-use-browser-harness/finalized-raw-cover.jpg",
+      "source_url": "https://browser-harness.com/og.png"
+    },
+    {
+      "id": "browser-use-web-ui-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Browser Use Web UI",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/brand_cover_candidates/browser-use-web-ui/brand-preserving-cover.jpg",
+      "source_url": "https://github.com/browser-use.png?size=512"
+    },
+    {
+      "id": "microsoft-magentic-ui-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Magentic-UI",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/microsoft-magentic-ui/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/microsoft/magentic-ui"
+    },
+    {
+      "id": "camel-ai-camel-cover",
+      "target_entity_id": null,
+      "target_entity_name": "CAMEL",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/brand_cover_candidates/camel-ai-camel/brand-preserving-cover.jpg",
+      "source_url": "https://github.com/camel-ai.png?size=512"
+    },
+    {
+      "id": "alibaba-spring-ai-alibaba-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Spring AI Alibaba",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/alibaba-spring-ai-alibaba/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/alibaba/spring-ai-alibaba"
+    },
+    {
+      "id": "smtg-ai-claude-squad-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Claude Squad",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/smtg-ai-claude-squad/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/smtg-ai/claude-squad"
+    },
+    {
+      "id": "can1357-oh-my-pi-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Oh My Pi",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/can1357-oh-my-pi/finalized-raw-cover.jpg",
+      "source_url": "https://omp.sh/og-image.png"
+    },
+    {
+      "id": "bytedance-flowgram-ai-cover",
+      "target_entity_id": null,
+      "target_entity_name": "FlowGram.ai",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/small_brand_icon_covers/bytedance-flowgram-ai/cover.jpg",
+      "source_url": "https://flowgram.ai/flowgram-logo.svg"
+    },
+    {
+      "id": "google-adk-go-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Google ADK Go",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/google-adk-go/finalized-raw-cover.jpg",
+      "source_url": "https://adk.dev/assets/adk-social-card.png"
+    },
+    {
+      "id": "browser-use-video-use-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Video Use",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/browser-use-video-use/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/browser-use/video-use"
+    },
+    {
+      "id": "kuberwastaken-claurst-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Claurst",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/kuberwastaken-claurst/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/Kuberwastaken/claurst"
+    },
+    {
+      "id": "composiohq-agent-orchestrator-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Agent Orchestrator",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/composiohq-agent-orchestrator/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/ComposioHQ/agent-orchestrator"
+    },
+    {
+      "id": "stagewise-io-stagewise-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Stagewise",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/stagewise-io-stagewise/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/stagewise-io/stagewise"
+    },
+    {
+      "id": "mervinpraison-praisonai-cover",
+      "target_entity_id": null,
+      "target_entity_name": "PraisonAI",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/mervinpraison-praisonai/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/MervinPraison/PraisonAI"
+    },
+    {
+      "id": "samuraigpt-llm-wiki-agent-cover",
+      "target_entity_id": null,
+      "target_entity_name": "LLM Wiki Agent",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/samuraigpt-llm-wiki-agent/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/SamurAIGPT/llm-wiki-agent"
+    },
+    {
+      "id": "modelscope-ms-agent-cover",
+      "target_entity_id": null,
+      "target_entity_name": "MS-Agent",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/quality_gate_fixes/modelscope-ms-agent/cover.jpg",
+      "source_url": null
+    },
+    {
+      "id": "swe-agent-mini-swe-agent-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Mini SWE-agent",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/swe-agent-mini-swe-agent/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/SWE-agent/mini-swe-agent"
+    },
+    {
+      "id": "the-open-agent-openagent-cover",
+      "target_entity_id": null,
+      "target_entity_name": "OpenAgent",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/the-open-agent-openagent/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/the-open-agent/openagent"
+    },
+    {
+      "id": "agentscope-ai-reme-cover",
+      "target_entity_id": null,
+      "target_entity_name": "ReMe",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/agentscope-ai-reme/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/agentscope-ai/ReMe"
+    },
+    {
+      "id": "agent-infra-sandbox-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Agent Infra Sandbox",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/agent-infra-sandbox/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/agent-infra/sandbox"
+    },
+    {
+      "id": "jetbrains-koog-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Koog",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/jetbrains-koog/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/JetBrains/koog"
+    },
+    {
+      "id": "openai-openai-agents-js-cover",
+      "target_entity_id": null,
+      "target_entity_name": "OpenAI Agents JS",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/openai-openai-agents-js/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/openai/openai-agents-js"
+    },
+    {
+      "id": "1jehuang-jcode-cover",
+      "target_entity_id": null,
+      "target_entity_name": "JCode",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/1jehuang-jcode/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/1jehuang/jcode"
+    },
+    {
+      "id": "builderz-labs-mission-control-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Mission Control",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/builderz-labs-mission-control/finalized-raw-cover.jpg",
+      "source_url": "https://opengraph.githubassets.com/1/builderz-labs/mission-control"
+    },
+    {
+      "id": "letta-ai-letta-code-cover",
+      "target_entity_id": null,
+      "target_entity_name": "Letta Code",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/finalized_raw_covers/letta-ai-letta-code/finalized-raw-cover.jpg",
+      "source_url": "https://www.letta.com/assets/images/meta-card.png"
+    },
+    {
+      "id": "moazbuilds-codemachine-cli-cover",
+      "target_entity_id": null,
+      "target_entity_name": "CodeMachine CLI",
+      "target_kind": "agent",
+      "relation": "cover",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/brand_cover_candidates/moazbuilds-codemachine-cli/brand-preserving-cover.jpg",
+      "source_url": "https://github.com/moazbuilds.png?size=512"
+    }
+  ]
+}

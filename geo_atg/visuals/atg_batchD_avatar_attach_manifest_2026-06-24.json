@@ -1,0 +1,192 @@
+{
+  "version": "atg_batchD_avatar_2026-06-24",
+  "space_id": "41e851610e13a19441c4d980f2f2ce6b",
+  "assets": [
+    {
+      "id": "modu-ai-moai-adk-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "MoAI ADK",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/modu-ai-moai-adk/avatar.png"
+    },
+    {
+      "id": "swarmclawai-swarmclaw-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "SwarmClaw",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/swarmclawai-swarmclaw/avatar.png"
+    },
+    {
+      "id": "jnmetacode-agency-orchestrator-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Agency Orchestrator",
+      "file": "geo_atg/visuals/generated/remaining_agent_avatars/sliced/jnmetacode-agency-orchestrator-neutral-avatar.png"
+    },
+    {
+      "id": "google-adk-java-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Google ADK Java",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/google-adk-java/avatar.png"
+    },
+    {
+      "id": "run-llama-llama-deploy-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "LlamaDeploy",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/site_og/run-llama-llama-deploy/avatar.png"
+    },
+    {
+      "id": "agent-field-swe-af-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "SWE-AF",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/site_og/agent-field-swe-af/avatar.png"
+    },
+    {
+      "id": "moonshotai-kimi-cli-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Kimi CLI",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/moonshotai-kimi-cli/avatar.jpg"
+    },
+    {
+      "id": "google-deepmind-concordia-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Concordia",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/google-deepmind-concordia/avatar.png"
+    },
+    {
+      "id": "yohey-w-multi-agent-shogun-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Multi-Agent Shogun",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/yohey-w-multi-agent-shogun/avatar.png"
+    },
+    {
+      "id": "tesslateai-opensail-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "OpenSail",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/tesslateai-opensail/avatar.png"
+    },
+    {
+      "id": "claude-code-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Claude Code",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/github/claude-code/avatar.png"
+    },
+    {
+      "id": "github-copilot-agent-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "GitHub Copilot Agent",
+      "file": "geo_atg/visuals/generated/remaining_agent_avatars/sliced/github-copilot-agent-neutral-avatar.png"
+    },
+    {
+      "id": "devin-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Devin",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/quality_gate_fixes/devin/avatar.jpg"
+    },
+    {
+      "id": "gemini-code-assist-jules-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Gemini Code Assist / Jules",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/quality_gate_fixes/gemini-code-assist-jules/avatar.jpg"
+    },
+    {
+      "id": "windsurf-cascade-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Windsurf Cascade",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/quality_gate_fixes/windsurf-cascade/avatar.jpg"
+    },
+    {
+      "id": "replit-agent-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Replit Agent",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/site_og/replit-agent/avatar.webp"
+    },
+    {
+      "id": "jetbrains-junie-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "JetBrains Junie",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/site_og/jetbrains-junie/avatar.png"
+    },
+    {
+      "id": "manus-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Manus",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/quality_gate_fixes/manus/avatar.jpg"
+    },
+    {
+      "id": "cursor-agent-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Cursor Agent",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/site_og/cursor-agent/avatar.ico"
+    },
+    {
+      "id": "chatgpt-agent-operator-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "ChatGPT Agent / Operator",
+      "file": "geo_atg/visuals/generated/remaining_agent_avatars/sliced/chatgpt-agent-operator-neutral-avatar.png"
+    },
+    {
+      "id": "ernie-agent-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "ERNIE Agent",
+      "file": "geo_atg/visuals/generated/remaining_agent_avatars/sliced/ernie-agent-neutral-avatar.png"
+    },
+    {
+      "id": "lovable-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Lovable",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/quality_gate_fixes/lovable/avatar.jpg"
+    },
+    {
+      "id": "aws-q-developer-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Amazon Q Developer",
+      "file": "geo_atg/visuals/generated/remaining_agent_avatars/sliced/aws-q-developer-neutral-avatar.png"
+    },
+    {
+      "id": "doubao-agent-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Doubao Agent",
+      "file": "geo_atg/visuals/generated/remaining_agent_avatars/sliced/doubao-agent-neutral-avatar.png"
+    },
+    {
+      "id": "kimi-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Kimi",
+      "file": "geo_atg/visuals/generated/remaining_agent_avatars/sliced/kimi-neutral-avatar.png"
+    },
+    {
+      "id": "coze-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Coze",
+      "file": "geo_atg/visuals/generated/remaining_agent_avatars/sliced/coze-neutral-avatar.png"
+    },
+    {
+      "id": "bolt-new-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Bolt.new",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/quality_gate_fixes/bolt-new/avatar.jpg"
+    },
+    {
+      "id": "perplexity-comet-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Perplexity Comet",
+      "file": "geo_atg/visuals/generated/remaining_agent_avatars/sliced/perplexity-comet-neutral-avatar.png"
+    },
+    {
+      "id": "tongyi-agent-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "Tongyi Agent",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/quality_gate_fixes/tongyi-agent/avatar.jpg"
+    },
+    {
+      "id": "v0-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "v0",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/quality_gate_fixes/v0/avatar.jpg"
+    },
+    {
+      "id": "openclaw-openclaw-avatar",
+      "target_entity_id": null,
+      "target_entity_name": "OpenClaw",
+      "file": "geo_atg/visuals/remaining_agents/2026-06-19/site_og/openclaw-openclaw/avatar.jpg"
+    }
+  ]
+}
