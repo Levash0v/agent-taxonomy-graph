@@ -1,0 +1,292 @@
+[
+  {
+    "id": "agent-field",
+    "name": "Agent-Field",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "alibaba",
+    "name": "alibaba",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "amazon-web-services",
+    "name": "Amazon Web Services",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "anysphere",
+    "name": "Anysphere",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "baidu",
+    "name": "Baidu",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "bytedance",
+    "name": "bytedance",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "cognition-ai",
+    "name": "Cognition AI",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "cognition-windsurf",
+    "name": "Cognition / Windsurf",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "github-microsoft",
+    "name": "GitHub / Microsoft",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "google",
+    "name": "Google",
+    "org_type": "company",
+    "funding_stage": "public",
+    "enterprise_presence": "high",
+    "ecosystem_weight": "high",
+    "github_handles": "google;Google;google-deepmind",
+    "source_url": null
+  },
+  {
+    "id": "google-deepmind",
+    "name": "google-deepmind",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "jetbrains",
+    "name": "JetBrains",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "jnmetacode",
+    "name": "jnMetaCode",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "lovable",
+    "name": "Lovable",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "manus-ai",
+    "name": "Manus AI",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "modu-ai",
+    "name": "modu-ai",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "moonshot-ai",
+    "name": "Moonshot AI",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "moonshotai",
+    "name": "MoonshotAI",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "openai",
+    "name": "OpenAI",
+    "org_type": "lab",
+    "funding_stage": "late_stage",
+    "enterprise_presence": "high",
+    "ecosystem_weight": "high",
+    "github_handles": "openai;OpenAI",
+    "source_url": null
+  },
+  {
+    "id": "openclaw",
+    "name": "OpenClaw",
+    "org_type": "community",
+    "funding_stage": "community",
+    "enterprise_presence": "low",
+    "ecosystem_weight": "medium",
+    "github_handles": "openclaw",
+    "source_url": "https://github.com/openclaw/openclaw"
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "replit",
+    "name": "Replit",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "run-llama",
+    "name": "run-llama",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "stackblitz",
+    "name": "StackBlitz",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "swarmclawai",
+    "name": "swarmclawai",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "tesslateai",
+    "name": "TesslateAI",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "vercel",
+    "name": "Vercel",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "yohey-w",
+    "name": "yohey-w",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  }
+]

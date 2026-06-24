@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1jehuang",
+    "name": "1jehuang",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "agent-infra",
+    "name": "agent-infra",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "agentscope-ai",
+    "name": "agentscope-ai",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "alibaba",
+    "name": "alibaba",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "browser-use",
+    "name": "browser-use",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "browseros-ai",
+    "name": "browseros-ai",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "builderz-labs",
+    "name": "builderz-labs",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "bytedance",
+    "name": "bytedance",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "camel-ai",
+    "name": "camel-ai",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "can1357",
+    "name": "can1357",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "composiohq",
+    "name": "ComposioHQ",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "dataelement",
+    "name": "dataelement",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "google",
+    "name": "Google",
+    "org_type": "company",
+    "funding_stage": "public",
+    "enterprise_presence": "high",
+    "ecosystem_weight": "high",
+    "github_handles": "google;Google;google-deepmind",
+    "source_url": null
+  },
+  {
+    "id": "jetbrains",
+    "name": "JetBrains",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "kuberwastaken",
+    "name": "Kuberwastaken",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "langchain-ai",
+    "name": "langchain-ai",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "letta-ai",
+    "name": "letta-ai",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "mervinpraison",
+    "name": "MervinPraison",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "org_type": "company",
+    "funding_stage": "public",
+    "enterprise_presence": "high",
+    "ecosystem_weight": "high",
+    "github_handles": "microsoft;GitHub / Microsoft",
+    "source_url": null
+  },
+  {
+    "id": "moazbuilds",
+    "name": "moazbuilds",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "modelscope",
+    "name": "modelscope",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "openai",
+    "name": "OpenAI",
+    "org_type": "lab",
+    "funding_stage": "late_stage",
+    "enterprise_presence": "high",
+    "ecosystem_weight": "high",
+    "github_handles": "openai;OpenAI",
+    "source_url": null
+  },
+  {
+    "id": "qwenlm",
+    "name": "QwenLM",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "samuraigpt",
+    "name": "SamurAIGPT",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "smtg-ai",
+    "name": "smtg-ai",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "stagewise-io",
+    "name": "stagewise-io",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "swe-agent",
+    "name": "SWE-agent",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "the-open-agent",
+    "name": "the-open-agent",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  }
+]

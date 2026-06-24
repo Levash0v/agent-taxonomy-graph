@@ -1,0 +1,1923 @@
+[
+  {
+    "id": "affaan-m-ecc",
+    "name": "ECC",
+    "avatar_url": "https://github.com/affaan-m.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "organization": "affaan-m",
+    "primary_category": "coding_agents",
+    "primary_use_case": "software_dev_automation",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "JavaScript",
+    "stars_at_collection": 210626,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2026-01",
+    "website_url": "https://ecc.tools",
+    "github_url": "https://github.com/affaan-m/ECC",
+    "docs_url": null,
+    "x_url": "https://x.com/affaanmustafa",
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp"
+    ],
+    "models": [
+      "claude"
+    ],
+    "runtimes": [
+      "local_process"
+    ],
+    "domains": [
+      "software_engineering"
+    ],
+    "memory_types": [
+      "long_term",
+      "vector"
+    ],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Claude Code",
+      "GitHub Copilot",
+      "Cursor"
+    ],
+    "linkedin_url": "https://linkedin.com/company/affaan-m",
+    "skills_count": 5,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "nousresearch-hermes-agent",
+    "name": "Hermes Agent",
+    "avatar_url": "https://github.com/NousResearch.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "organization": "nousresearch",
+    "primary_category": "coding_agents",
+    "primary_use_case": "software_dev_automation",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "Python",
+    "stars_at_collection": 187161,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2025-07",
+    "website_url": "https://hermes-agent.nousresearch.com",
+    "github_url": "https://github.com/NousResearch/hermes-agent",
+    "docs_url": null,
+    "x_url": "https://x.com/NousResearch",
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "tool_use",
+      "approval_gates",
+      "audit_log",
+      "artifact_verification",
+      "evidence_reporting",
+      "session_replay"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp",
+      "openai-tool-call"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o",
+      "gemini",
+      "mistral"
+    ],
+    "runtimes": [
+      "local_process"
+    ],
+    "domains": [
+      "software_engineering"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Devin",
+      "GitHub Copilot Workspace",
+      "Cursor"
+    ],
+    "linkedin_url": "https://linkedin.com/company/nousresearch",
+    "skills_count": 3,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "infiniflow-ragflow",
+    "name": "RAGFlow",
+    "avatar_url": "https://github.com/infiniflow.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/infiniflow/ragflow",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "organization": "infiniflow",
+    "primary_category": "rag_knowledge_memory_agents",
+    "primary_use_case": "data_pipeline",
+    "autonomy_level": "supervised",
+    "visibility_class": "oss_core",
+    "license": "Apache-2.0",
+    "primary_language": "Python",
+    "stars_at_collection": 82213,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2023-12",
+    "website_url": "https://ragflow.io",
+    "github_url": "https://github.com/infiniflow/ragflow",
+    "docs_url": "https://ragflow.io/docs",
+    "x_url": "https://x.com/infiniflow_ai",
+    "capabilities": [
+      "observability_tracing"
+    ],
+    "features": [],
+    "protocols": [
+      "openapi",
+      "mcp"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o",
+      "ollama"
+    ],
+    "runtimes": [
+      "docker"
+    ],
+    "domains": [
+      "data_analysis"
+    ],
+    "memory_types": [
+      "long_term",
+      "vector"
+    ],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call"
+    ],
+    "risk_mitigations": [
+      "audit_failure"
+    ],
+    "oss_alternatives_to": [
+      "Azure AI Search",
+      "Vertex AI Search"
+    ],
+    "linkedin_url": "https://linkedin.com/company/infiniflow",
+    "skills_count": 3,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "farion1231-cc-switch",
+    "name": "CC Switch",
+    "avatar_url": "https://github.com/farion1231.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/farion1231/cc-switch",
+    "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
+    "organization": "farion1231",
+    "primary_category": "coding_agents",
+    "primary_use_case": "software_dev_automation",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "Rust",
+    "stars_at_collection": 95142,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2025-08",
+    "website_url": "https://ccswitch.io",
+    "github_url": "https://github.com/farion1231/cc-switch",
+    "docs_url": null,
+    "x_url": null,
+    "capabilities": [
+      "browser_control",
+      "code_execution",
+      "computer_use",
+      "file_system_access",
+      "shell_execution",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp"
+    ],
+    "models": [
+      "claude"
+    ],
+    "runtimes": [
+      "local_process"
+    ],
+    "domains": [
+      "software_engineering"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Claude Code",
+      "Cursor"
+    ],
+    "linkedin_url": "https://linkedin.com/company/farion1231",
+    "skills_count": 6,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "thedotmack-claude-mem",
+    "name": "Claude Mem",
+    "avatar_url": "https://github.com/thedotmack.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "organization": "thedotmack",
+    "primary_category": "coding_agents",
+    "primary_use_case": "software_dev_automation",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "Apache-2.0",
+    "primary_language": "TypeScript",
+    "stars_at_collection": 81273,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2025-08",
+    "website_url": "https://claude-mem.ai",
+    "github_url": "https://github.com/thedotmack/claude-mem",
+    "docs_url": null,
+    "x_url": null,
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "openai-tool-call",
+      "mcp"
+    ],
+    "models": [
+      "claude"
+    ],
+    "runtimes": [
+      "local_process"
+    ],
+    "domains": [
+      "software_engineering"
+    ],
+    "memory_types": [
+      "long_term",
+      "vector"
+    ],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Claude Code",
+      "GitHub Copilot"
+    ],
+    "linkedin_url": "https://linkedin.com/company/thedotmack",
+    "skills_count": 5,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "bytedance-deer-flow",
+    "name": "DeerFlow",
+    "avatar_url": "https://github.com/bytedance.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "organization": "bytedance",
+    "primary_category": "workflow_nocode_agent_platforms",
+    "primary_use_case": "data_pipeline",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "Python",
+    "stars_at_collection": 70743,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2025-05",
+    "website_url": "https://deerflow.tech",
+    "github_url": "https://github.com/bytedance/deer-flow",
+    "docs_url": "https://github.com/bytedance/deer-flow/tree/main/docs",
+    "x_url": "https://x.com/ByteDance",
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "multi_agent_orchestration",
+      "tool_use",
+      "long_running_tasks"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp",
+      "openai-tool-call"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o",
+      "deepseek"
+    ],
+    "runtimes": [
+      "docker",
+      "pip"
+    ],
+    "domains": [
+      "data_analysis"
+    ],
+    "memory_types": [
+      "long_term",
+      "vector"
+    ],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Perplexity Pro",
+      "ChatGPT Browse",
+      "Gemini Deep Research"
+    ],
+    "linkedin_url": "https://linkedin.com/company/bytedance",
+    "skills_count": 6,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "foundationagents-metagpt",
+    "name": "MetaGPT",
+    "avatar_url": "https://github.com/FoundationAgents.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/FoundationAgents/MetaGPT",
+    "description": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "organization": "foundationagents",
+    "primary_category": "multi_agent_simulation_research",
+    "primary_use_case": "research",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "Python",
+    "stars_at_collection": 68646,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2023-06",
+    "website_url": "https://deepwisdom.ai",
+    "github_url": "https://github.com/FoundationAgents/MetaGPT",
+    "docs_url": "https://docs.deepwisdom.ai",
+    "x_url": "https://x.com/MetaGPT_AI",
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "multi_agent_orchestration"
+    ],
+    "features": [],
+    "protocols": [
+      "openai-tool-call"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o",
+      "ollama"
+    ],
+    "runtimes": [
+      "pip",
+      "docker"
+    ],
+    "domains": [
+      "research_assistant"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "runaway_loop",
+      "cost_explosion"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Devin",
+      "GitHub Copilot Workspace"
+    ],
+    "linkedin_url": "https://linkedin.com/company/foundationagents",
+    "skills_count": 3,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "mintplex-labs-anything-llm",
+    "name": "AnythingLLM",
+    "avatar_url": "https://github.com/Mintplex-Labs.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/Mintplex-Labs/anything-llm",
+    "description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
+    "organization": "mintplex-labs",
+    "primary_category": "rag_knowledge_memory_agents",
+    "primary_use_case": "data_pipeline",
+    "autonomy_level": "supervised",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "JavaScript",
+    "stars_at_collection": 61257,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2023-06",
+    "website_url": "https://anythingllm.com",
+    "github_url": "https://github.com/Mintplex-Labs/anything-llm",
+    "docs_url": "https://docs.useanything.com",
+    "x_url": "https://x.com/mintplexlabs",
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o",
+      "gemini",
+      "ollama"
+    ],
+    "runtimes": [
+      "docker",
+      "npm",
+      "macos",
+      "linux",
+      "windows"
+    ],
+    "domains": [
+      "data_analysis"
+    ],
+    "memory_types": [
+      "long_term",
+      "vector"
+    ],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Azure AI Foundry",
+      "ChatGPT Enterprise"
+    ],
+    "linkedin_url": "https://linkedin.com/company/mintplex-labs",
+    "skills_count": 5,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "earendil-works-pi",
+    "name": "Pi",
+    "avatar_url": "https://github.com/earendil-works.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/earendil-works/pi",
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+    "organization": "earendil-works",
+    "primary_category": "coding_agents",
+    "primary_use_case": "software_dev_automation",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "TypeScript",
+    "stars_at_collection": 60916,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2025-08",
+    "website_url": "https://pi.dev",
+    "github_url": "https://github.com/earendil-works/pi",
+    "docs_url": null,
+    "x_url": "https://x.com/earendilworks",
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "shell_execution",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "openai-tool-call",
+      "mcp"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o",
+      "gemini",
+      "mistral",
+      "ollama"
+    ],
+    "runtimes": [
+      "local_process"
+    ],
+    "domains": [
+      "software_engineering"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Claude Code",
+      "Cursor",
+      "GitHub Copilot"
+    ],
+    "linkedin_url": "https://linkedin.com/company/earendil-works",
+    "skills_count": 4,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "jeecgboot-jeecgboot",
+    "name": "JeecgBoot",
+    "avatar_url": "https://github.com/jeecgboot.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/jeecgboot/JeecgBoot",
+    "description": "JeecgBoot is an AI-enabled low-code platform for building enterprise Java applications. It combines low-code code generation, no-code system assembly, AI-assisted workflow and form design, knowledge-base/chat features, process orchestration, and MCP plugin support to reduce repetitive development work while keeping generated systems customizable.",
+    "organization": "jeecgboot",
+    "primary_category": "coding_agents",
+    "primary_use_case": "software_dev_automation",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "Apache-2.0",
+    "primary_language": "Java",
+    "stars_at_collection": 46666,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2018-11",
+    "website_url": "https://jeecg.com",
+    "github_url": "https://github.com/jeecgboot/JeecgBoot",
+    "docs_url": "https://help.jeecg.com",
+    "x_url": null,
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "shell_execution",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp"
+    ],
+    "models": [],
+    "runtimes": [
+      "local_process"
+    ],
+    "domains": [
+      "software_engineering"
+    ],
+    "memory_types": [
+      "long_term",
+      "vector"
+    ],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Cursor",
+      "GitHub Copilot"
+    ],
+    "linkedin_url": "https://linkedin.com/company/jeecgboot",
+    "skills_count": 6,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "hkuds-nanobot",
+    "name": "Nanobot",
+    "avatar_url": "https://github.com/HKUDS.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/HKUDS/nanobot",
+    "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+    "organization": "hkuds",
+    "primary_category": "coding_agents",
+    "primary_use_case": "software_dev_automation",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "Python",
+    "stars_at_collection": 43874,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2026-02",
+    "website_url": "https://nanobot.wiki",
+    "github_url": "https://github.com/HKUDS/nanobot",
+    "docs_url": null,
+    "x_url": null,
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "shell_execution",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp",
+      "openai-tool-call"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o"
+    ],
+    "runtimes": [
+      "local_process"
+    ],
+    "domains": [
+      "software_engineering"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Claude Code",
+      "Cursor"
+    ],
+    "linkedin_url": "https://linkedin.com/company/hkuds",
+    "skills_count": 4,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "danny-avila-librechat",
+    "name": "LibreChat",
+    "avatar_url": "https://github.com/danny-avila.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/danny-avila/LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.",
+    "organization": "danny-avila",
+    "primary_category": "mcp_tool_use_integration_layer",
+    "primary_use_case": "general_purpose",
+    "autonomy_level": "supervised",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "TypeScript",
+    "stars_at_collection": 38664,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2023-02",
+    "website_url": "https://librechat.ai",
+    "github_url": "https://github.com/danny-avila/LibreChat",
+    "docs_url": "https://www.librechat.ai/docs",
+    "x_url": "https://x.com/LibreChatAI",
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp",
+      "openapi"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o",
+      "gemini",
+      "ollama",
+      "mistral"
+    ],
+    "runtimes": [
+      "docker",
+      "npm",
+      "cloud"
+    ],
+    "domains": [
+      "general_purpose"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "ChatGPT web",
+      "Claude web",
+      "Poe"
+    ],
+    "linkedin_url": "https://linkedin.com/company/danny-avila",
+    "skills_count": 3,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "khoj-ai-khoj",
+    "name": "Khoj",
+    "avatar_url": "https://github.com/khoj-ai.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/khoj-ai/khoj",
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+    "organization": "khoj-ai",
+    "primary_category": "rag_knowledge_memory_agents",
+    "primary_use_case": "research",
+    "autonomy_level": "supervised",
+    "visibility_class": "oss_core",
+    "license": "AGPL-3.0",
+    "primary_language": "Python",
+    "stars_at_collection": 35006,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2021-08",
+    "website_url": "https://khoj.dev",
+    "github_url": "https://github.com/khoj-ai/khoj",
+    "docs_url": "https://docs.khoj.dev",
+    "x_url": "https://x.com/khoj_ai",
+    "capabilities": [
+      "tool_use",
+      "vector_rag",
+      "web_search",
+      "persistent_memory",
+      "long_running_tasks"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp",
+      "openapi"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o",
+      "gemini",
+      "ollama"
+    ],
+    "runtimes": [
+      "docker",
+      "pip",
+      "cloud"
+    ],
+    "domains": [
+      "research_assistant"
+    ],
+    "memory_types": [
+      "long_term",
+      "vector"
+    ],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Perplexity Pro",
+      "ChatGPT Browse",
+      "Google NotebookLM"
+    ],
+    "linkedin_url": "https://linkedin.com/company/khoj-ai",
+    "skills_count": 2,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "yeachan-heo-oh-my-claudecode",
+    "name": "Oh My ClaudeCode",
+    "avatar_url": "https://github.com/Yeachan-Heo.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/Yeachan-Heo/oh-my-claudecode",
+    "description": "Teams-first Multi-agent orchestration for Claude Code",
+    "organization": "yeachan-heo",
+    "primary_category": "coding_agents",
+    "primary_use_case": "software_dev_automation",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "TypeScript",
+    "stars_at_collection": 36011,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2026-01",
+    "website_url": "https://oh-my-claudecode.dev",
+    "github_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+    "docs_url": null,
+    "x_url": "https://x.com/AnthropicAI",
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "multi_agent_orchestration",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp",
+      "openai-tool-call"
+    ],
+    "models": [
+      "claude"
+    ],
+    "runtimes": [
+      "local_process"
+    ],
+    "domains": [
+      "software_engineering"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Claude Code"
+    ],
+    "linkedin_url": "https://linkedin.com/company/yeachan-heo",
+    "skills_count": 4,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "vercel-labs-agent-browser",
+    "name": "Agent Browser",
+    "avatar_url": "https://github.com/vercel-labs.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "organization": "vercel-labs",
+    "primary_category": "workflow_nocode_agent_platforms",
+    "primary_use_case": "data_pipeline",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "Apache-2.0",
+    "primary_language": "Rust",
+    "stars_at_collection": 35590,
+    "stars_collected_at": "2026-06-09",
+    "release_date": "2026-01",
+    "website_url": "https://agent-browser.dev",
+    "github_url": "https://github.com/vercel-labs/agent-browser",
+    "docs_url": null,
+    "x_url": null,
+    "capabilities": [
+      "browser_control",
+      "computer_use",
+      "shell_execution"
+    ],
+    "features": [],
+    "protocols": [
+      "openai-tool-call"
+    ],
+    "models": [],
+    "runtimes": [],
+    "domains": [
+      "data_analysis"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "ChatGPT Operator",
+      "Claude Computer Use"
+    ],
+    "linkedin_url": "https://linkedin.com/company/vercel-labs",
+    "skills_count": 3,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "hmbown-deepseek-tui",
+    "name": "DeepSeek TUI",
+    "avatar_url": "https://github.com/Hmbown.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/Hmbown/DeepSeek-TUI",
+    "description": "Coding agent for DeepSeek models that runs in your terminal",
+    "organization": "hmbown",
+    "primary_category": "coding_agents",
+    "primary_use_case": "software_dev_automation",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "Rust",
+    "stars_at_collection": 37572,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2026-01",
+    "website_url": "https://codewhale.net",
+    "github_url": "https://github.com/Hmbown/DeepSeek-TUI",
+    "docs_url": null,
+    "x_url": "https://x.com/deepseek_ai",
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "shell_execution",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "openai-tool-call"
+    ],
+    "models": [],
+    "runtimes": [
+      "local_process"
+    ],
+    "domains": [
+      "software_engineering"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Claude Code",
+      "GitHub Copilot"
+    ],
+    "linkedin_url": "https://linkedin.com/company/hmbown",
+    "skills_count": 4,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "copilotkit-copilotkit",
+    "name": "CopilotKit",
+    "avatar_url": "https://github.com/CopilotKit.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/CopilotKit/CopilotKit",
+    "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+    "organization": "copilotkit",
+    "primary_category": "mcp_tool_use_integration_layer",
+    "primary_use_case": "general_purpose",
+    "autonomy_level": "supervised",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "TypeScript",
+    "stars_at_collection": 34072,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2023-06",
+    "website_url": "https://copilotkit.ai",
+    "github_url": "https://github.com/CopilotKit/CopilotKit",
+    "docs_url": "https://docs.copilotkit.ai",
+    "x_url": "https://x.com/CopilotKit",
+    "capabilities": [
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp",
+      "openai-tool-call"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o"
+    ],
+    "runtimes": [
+      "npm"
+    ],
+    "domains": [
+      "general_purpose"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "GitHub Copilot",
+      "Cursor"
+    ],
+    "linkedin_url": "https://linkedin.com/company/copilotkit",
+    "skills_count": 1,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "simstudioai-sim",
+    "name": "Sim",
+    "avatar_url": "https://github.com/simstudioai.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/simstudioai/sim",
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "organization": "simstudioai",
+    "primary_category": "rag_knowledge_memory_agents",
+    "primary_use_case": "data_pipeline",
+    "autonomy_level": "supervised",
+    "visibility_class": "oss_core",
+    "license": "Apache-2.0",
+    "primary_language": "TypeScript",
+    "stars_at_collection": 28735,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2025-01",
+    "website_url": "https://www.sim.ai",
+    "github_url": "https://github.com/simstudioai/sim",
+    "docs_url": "https://docs.sim.ai/introduction",
+    "x_url": "https://x.com/simdotai",
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "workflow_orchestration",
+      "state_management"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp",
+      "openai-tool-call"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o"
+    ],
+    "runtimes": [
+      "pip"
+    ],
+    "domains": [
+      "data_analysis"
+    ],
+    "memory_types": [
+      "long_term",
+      "vector"
+    ],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "AWS Bedrock Agents",
+      "Vertex AI Agent Builder"
+    ],
+    "linkedin_url": "https://linkedin.com/company/simstudioai",
+    "skills_count": 4,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "composiohq-composio",
+    "name": "Composio",
+    "avatar_url": "https://github.com/ComposioHQ.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/ComposioHQ/composio",
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+    "organization": "composiohq",
+    "primary_category": "rag_knowledge_memory_agents",
+    "primary_use_case": "data_pipeline",
+    "autonomy_level": "supervised",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "TypeScript",
+    "stars_at_collection": 28694,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2024-02",
+    "website_url": "https://composio.dev",
+    "github_url": "https://github.com/ComposioHQ/composio",
+    "docs_url": "https://docs.composio.dev",
+    "x_url": "https://x.com/composiohq",
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "tool_use",
+      "permissioning"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp"
+    ],
+    "models": [
+      "any"
+    ],
+    "runtimes": [
+      "pip",
+      "npm"
+    ],
+    "domains": [
+      "data_analysis"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [
+      "unauthorized_action",
+      "privilege_escalation"
+    ],
+    "oss_alternatives_to": [
+      "Zapier AI",
+      "AWS Bedrock Agents"
+    ],
+    "linkedin_url": "https://linkedin.com/company/composiohq",
+    "skills_count": 3,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "assafelovic-gpt-researcher",
+    "name": "GPT Researcher",
+    "avatar_url": "https://github.com/assafelovic.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/assafelovic/gpt-researcher",
+    "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+    "organization": "assafelovic",
+    "primary_category": "workflow_nocode_agent_platforms",
+    "primary_use_case": "data_pipeline",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "Apache-2.0",
+    "primary_language": "Python",
+    "stars_at_collection": 27569,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2023-05",
+    "website_url": "https://gptr.dev",
+    "github_url": "https://github.com/assafelovic/gpt-researcher",
+    "docs_url": null,
+    "x_url": "https://x.com/assaf_elovic",
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "tool_use",
+      "long_running_tasks",
+      "research",
+      "web_search"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp"
+    ],
+    "models": [
+      "gpt-4o",
+      "claude",
+      "gemini"
+    ],
+    "runtimes": [
+      "pip",
+      "docker"
+    ],
+    "domains": [
+      "data_analysis"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Perplexity Pro",
+      "ChatGPT Browse",
+      "Gemini Deep Research"
+    ],
+    "linkedin_url": "https://linkedin.com/company/assafelovic",
+    "skills_count": 3,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "getzep-graphiti",
+    "name": "Graphiti",
+    "avatar_url": "https://github.com/getzep.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/getzep/graphiti",
+    "description": "Build Real-Time Knowledge Graphs for AI Agents",
+    "organization": "getzep",
+    "primary_category": "rag_knowledge_memory_agents",
+    "primary_use_case": "data_pipeline",
+    "autonomy_level": "supervised",
+    "visibility_class": "oss_core",
+    "license": "Apache-2.0",
+    "primary_language": "Python",
+    "stars_at_collection": 27183,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2024-08",
+    "website_url": "https://getzep.com",
+    "github_url": "https://github.com/getzep/graphiti",
+    "docs_url": "https://help.getzep.com/graphiti",
+    "x_url": "https://x.com/getzep",
+    "capabilities": [
+      "state_management"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o",
+      "ollama"
+    ],
+    "runtimes": [
+      "pip",
+      "docker"
+    ],
+    "domains": [
+      "data_analysis"
+    ],
+    "memory_types": [
+      "long_term",
+      "vector"
+    ],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Zep Cloud",
+      "MemoryOS"
+    ],
+    "linkedin_url": "https://linkedin.com/company/getzep",
+    "skills_count": 2,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "agentscope-ai-agentscope",
+    "name": "AgentScope",
+    "avatar_url": "https://github.com/agentscope-ai.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/agentscope-ai/agentscope",
+    "description": "Build and run agents you can see, understand and trust.",
+    "organization": "agentscope-ai",
+    "primary_category": "mcp_tool_use_integration_layer",
+    "primary_use_case": "general_purpose",
+    "autonomy_level": "supervised",
+    "visibility_class": "oss_core",
+    "license": "Apache-2.0",
+    "primary_language": "Python",
+    "stars_at_collection": 26512,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2024-01",
+    "website_url": "https://agentscope.io",
+    "github_url": "https://github.com/agentscope-ai/agentscope",
+    "docs_url": null,
+    "x_url": "https://x.com/modelscope_ai",
+    "capabilities": [
+      "multi_agent_orchestration",
+      "tool_use",
+      "evaluation"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp"
+    ],
+    "models": [
+      "any"
+    ],
+    "runtimes": [
+      "pip"
+    ],
+    "domains": [
+      "general_purpose"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [
+      "hallucinated_tool_call"
+    ],
+    "oss_alternatives_to": [
+      "AWS Bedrock Agents",
+      "Azure AI Foundry"
+    ],
+    "linkedin_url": "https://linkedin.com/company/agentscope-ai",
+    "skills_count": 2,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "zai-org-open-autoglm",
+    "name": "Open-AutoGLM",
+    "avatar_url": "https://github.com/zai-org.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/zai-org/Open-AutoGLM",
+    "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+    "organization": "zai-org",
+    "primary_category": "browser_computer_use_agents",
+    "primary_use_case": "web_research",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "Apache-2.0",
+    "primary_language": "Python",
+    "stars_at_collection": 25468,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2025-12",
+    "website_url": "https://autoglm.z.ai/blog",
+    "github_url": "https://github.com/zai-org/Open-AutoGLM",
+    "docs_url": "https://github.com/THUDM/AutoGLM",
+    "x_url": "https://x.com/ZhipuAI",
+    "capabilities": [
+      "browser_control",
+      "computer_use",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "openai-tool-call"
+    ],
+    "models": [
+      "glm-4"
+    ],
+    "runtimes": [
+      "docker",
+      "pip"
+    ],
+    "domains": [
+      "research_assistant"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "runaway_loop",
+      "cost_explosion"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "ChatGPT Operator",
+      "Claude Computer Use"
+    ],
+    "linkedin_url": "https://linkedin.com/company/zai-org",
+    "skills_count": 3,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "prefecthq-fastmcp",
+    "name": "FastMCP",
+    "avatar_url": "https://github.com/PrefectHQ.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/PrefectHQ/fastmcp",
+    "description": "\ud83d\ude80 The fast, Pythonic way to build MCP servers and clients.",
+    "organization": "prefecthq",
+    "primary_category": "rag_knowledge_memory_agents",
+    "primary_use_case": "data_pipeline",
+    "autonomy_level": "supervised",
+    "visibility_class": "oss_core",
+    "license": "Apache-2.0",
+    "primary_language": "Python",
+    "stars_at_collection": 25543,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2024-11",
+    "website_url": "https://gofastmcp.com",
+    "github_url": "https://github.com/PrefectHQ/fastmcp",
+    "docs_url": "https://gofastmcp.com/docs",
+    "x_url": "https://x.com/jlowin",
+    "capabilities": [
+      "shell_execution",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp"
+    ],
+    "models": [
+      "any"
+    ],
+    "runtimes": [
+      "pip",
+      "npm"
+    ],
+    "domains": [
+      "data_analysis"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "AWS Bedrock Agents",
+      "Vertex AI Agent Builder"
+    ],
+    "linkedin_url": "https://linkedin.com/company/prefecthq",
+    "skills_count": 2,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "oraios-serena",
+    "name": "Serena",
+    "avatar_url": "https://github.com/oraios.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/oraios/serena",
+    "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent",
+    "organization": "oraios",
+    "primary_category": "coding_agents",
+    "primary_use_case": "software_dev_automation",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "Python",
+    "stars_at_collection": 25118,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2025-03",
+    "website_url": "https://oraios.github.io/serena",
+    "github_url": "https://github.com/oraios/serena",
+    "docs_url": null,
+    "x_url": "https://x.com/oramasearch",
+    "capabilities": [
+      "code_execution",
+      "observability_tracing",
+      "file_system_access",
+      "tool_use",
+      "mcp_server"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o",
+      "ollama"
+    ],
+    "runtimes": [
+      "local_process"
+    ],
+    "domains": [
+      "software_engineering"
+    ],
+    "memory_types": [
+      "long_term",
+      "vector"
+    ],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [
+      "audit_failure"
+    ],
+    "oss_alternatives_to": [
+      "GitHub Copilot",
+      "Cursor",
+      "Windsurf"
+    ],
+    "linkedin_url": "https://linkedin.com/company/oraios",
+    "skills_count": 6,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "openai-symphony",
+    "name": "Symphony",
+    "avatar_url": "https://github.com/openai.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/openai/symphony",
+    "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+    "organization": "openai",
+    "primary_category": "coding_agents",
+    "primary_use_case": "software_dev_automation",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "Apache-2.0",
+    "primary_language": "Elixir",
+    "stars_at_collection": 25161,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2026-02",
+    "website_url": "https://openai.com/index/open-source-codex-orchestration-symphony/",
+    "github_url": "https://github.com/openai/symphony",
+    "docs_url": null,
+    "x_url": null,
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "openai-tool-call"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o"
+    ],
+    "runtimes": [
+      "local_process"
+    ],
+    "domains": [
+      "software_engineering"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Devin",
+      "GitHub Copilot Workspace"
+    ],
+    "linkedin_url": "https://linkedin.com/company/openai",
+    "skills_count": 3,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "jackwener-opencli",
+    "name": "OpenCLI",
+    "avatar_url": "https://github.com/jackwener.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/jackwener/OpenCLI",
+    "description": "Make Any Website into CLI & Use your logged-in browser by AI agent.",
+    "organization": "jackwener",
+    "primary_category": "browser_computer_use_agents",
+    "primary_use_case": "web_research",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "Apache-2.0",
+    "primary_language": "JavaScript",
+    "stars_at_collection": 23833,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2026-03",
+    "website_url": "https://opencli.info",
+    "github_url": "https://github.com/jackwener/OpenCLI",
+    "docs_url": null,
+    "x_url": null,
+    "capabilities": [
+      "browser_control",
+      "computer_use",
+      "shell_execution",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "openai-tool-call",
+      "openapi"
+    ],
+    "models": [],
+    "runtimes": [],
+    "domains": [
+      "research_assistant"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "runaway_loop",
+      "cost_explosion",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Claude Computer Use"
+    ],
+    "linkedin_url": "https://linkedin.com/company/jackwener",
+    "skills_count": 4,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "google-adk-python",
+    "name": "Google ADK Python",
+    "avatar_url": "https://github.com/google.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/google/adk-python",
+    "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "organization": "google",
+    "primary_category": "observability_eval_guardrails",
+    "primary_use_case": "general_purpose",
+    "autonomy_level": "supervised",
+    "visibility_class": "oss_core",
+    "license": "Apache-2.0",
+    "primary_language": "Python",
+    "stars_at_collection": 20028,
+    "stars_collected_at": "2026-06-09",
+    "release_date": "2025-04",
+    "website_url": "https://adk.dev",
+    "github_url": "https://github.com/google/adk-python",
+    "docs_url": null,
+    "x_url": "https://x.com/googleai",
+    "capabilities": [
+      "code_execution",
+      "observability_tracing",
+      "file_system_access",
+      "multi_agent_orchestration",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "openai-tool-call",
+      "a2a",
+      "mcp"
+    ],
+    "models": [
+      "gemini",
+      "claude",
+      "gpt-4o"
+    ],
+    "runtimes": [
+      "pip"
+    ],
+    "domains": [
+      "general_purpose"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [
+      "audit_failure"
+    ],
+    "oss_alternatives_to": [
+      "AWS Bedrock Agents",
+      "Vertex AI Agent Builder"
+    ],
+    "linkedin_url": "https://linkedin.com/company/google",
+    "skills_count": 5,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "kilo-org-kilocode",
+    "name": "KiloCode",
+    "avatar_url": "https://github.com/Kilo-Org.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/Kilo-Org/kilocode",
+    "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+    "organization": "kilo-org",
+    "primary_category": "coding_agents",
+    "primary_use_case": "software_dev_automation",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "TypeScript",
+    "stars_at_collection": 19930,
+    "stars_collected_at": "2026-06-08",
+    "release_date": "2025-03",
+    "website_url": "https://kilo.ai",
+    "github_url": "https://github.com/Kilo-Org/kilocode",
+    "docs_url": "https://docs.kilocode.ai",
+    "x_url": "https://x.com/kiloist",
+    "capabilities": [
+      "code_execution",
+      "file_system_access",
+      "shell_execution",
+      "tool_use",
+      "code_editing"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp",
+      "openai-tool-call"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o",
+      "ollama"
+    ],
+    "runtimes": [
+      "local_process"
+    ],
+    "domains": [
+      "software_engineering"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Cursor",
+      "Windsurf",
+      "GitHub Copilot"
+    ],
+    "linkedin_url": "https://linkedin.com/company/kilo-org",
+    "skills_count": 4,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "eosphoros-ai-db-gpt",
+    "name": "DB-GPT",
+    "avatar_url": "https://github.com/eosphoros-ai.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/eosphoros-ai/DB-GPT",
+    "description": "open-source agentic AI data assistant for the next generation of AI + Data products.",
+    "organization": "eosphoros-ai",
+    "primary_category": "rag_knowledge_memory_agents",
+    "primary_use_case": "data_pipeline",
+    "autonomy_level": "supervised",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "Python",
+    "stars_at_collection": 18938,
+    "stars_collected_at": "2026-06-09",
+    "release_date": "2023-04",
+    "website_url": "https://dbgpt.cn",
+    "github_url": "https://github.com/eosphoros-ai/DB-GPT",
+    "docs_url": null,
+    "x_url": null,
+    "capabilities": [
+      "multi_agent_orchestration",
+      "tool_use",
+      "plugin_extensions",
+      "persistent_memory",
+      "workflow_orchestration",
+      "web_ui",
+      "mcp_client",
+      "search"
+    ],
+    "features": [],
+    "protocols": [
+      "openai-tool-call",
+      "openapi",
+      "mcp"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o",
+      "ollama"
+    ],
+    "runtimes": [
+      "docker",
+      "pip"
+    ],
+    "domains": [
+      "data_analysis"
+    ],
+    "memory_types": [
+      "long_term",
+      "vector"
+    ],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "Azure AI Foundry",
+      "AWS Bedrock Agents"
+    ],
+    "linkedin_url": "https://linkedin.com/company/eosphoros-ai",
+    "skills_count": 2,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "elizaos-eliza",
+    "name": "Eliza",
+    "avatar_url": "https://github.com/elizaOS.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/elizaOS/eliza",
+    "description": "Open source agentic operating system",
+    "organization": "elizaos",
+    "primary_category": "rag_knowledge_memory_agents",
+    "primary_use_case": "data_pipeline",
+    "autonomy_level": "supervised",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "TypeScript",
+    "stars_at_collection": 18535,
+    "stars_collected_at": "2026-06-09",
+    "release_date": "2024-07",
+    "website_url": "https://elizaos.ai",
+    "github_url": "https://github.com/elizaOS/eliza",
+    "docs_url": null,
+    "x_url": "https://x.com/ai16zdao",
+    "capabilities": [
+      "multi_agent_orchestration",
+      "agent_identity"
+    ],
+    "features": [],
+    "protocols": [
+      "openai-tool-call",
+      "mcp"
+    ],
+    "models": [
+      "claude",
+      "gpt-4o",
+      "ollama"
+    ],
+    "runtimes": [
+      "npm",
+      "docker"
+    ],
+    "domains": [
+      "data_analysis"
+    ],
+    "memory_types": [
+      "long_term",
+      "vector"
+    ],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call"
+    ],
+    "risk_mitigations": [
+      "identity_spoofing"
+    ],
+    "oss_alternatives_to": [
+      "ChatGPT web",
+      "Claude web"
+    ],
+    "linkedin_url": "https://linkedin.com/company/elizaos",
+    "skills_count": 3,
+    "relevance_tier": "core"
+  },
+  {
+    "id": "alibaba-page-agent",
+    "name": "Page Agent",
+    "avatar_url": "https://github.com/alibaba.png?size=512",
+    "cover_url": "https://opengraph.githubassets.com/1/alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "organization": "alibaba",
+    "primary_category": "workflow_nocode_agent_platforms",
+    "primary_use_case": "data_pipeline",
+    "autonomy_level": "semi_autonomous",
+    "visibility_class": "oss_core",
+    "license": "MIT",
+    "primary_language": "TypeScript",
+    "stars_at_collection": 18390,
+    "stars_collected_at": "2026-06-09",
+    "release_date": "2025-09",
+    "website_url": "https://alibaba.github.io/page-agent",
+    "github_url": "https://github.com/alibaba/page-agent",
+    "docs_url": "https://alibaba.github.io/page-agent/docs/introduction/overview/",
+    "x_url": null,
+    "capabilities": [
+      "browser_control",
+      "computer_use",
+      "tool_use"
+    ],
+    "features": [],
+    "protocols": [
+      "mcp"
+    ],
+    "models": [],
+    "runtimes": [],
+    "domains": [
+      "data_analysis"
+    ],
+    "memory_types": [],
+    "risk_surface": [
+      "prompt_injection",
+      "hallucinated_tool_call",
+      "tool_abuse",
+      "unauthorized_action",
+      "data_exfiltration",
+      "runaway_loop",
+      "cost_explosion",
+      "identity_spoofing"
+    ],
+    "risk_mitigations": [],
+    "oss_alternatives_to": [
+      "ChatGPT Operator",
+      "Claude Computer Use"
+    ],
+    "linkedin_url": "https://linkedin.com/company/alibaba",
+    "skills_count": 3,
+    "relevance_tier": "core"
+  }
+]

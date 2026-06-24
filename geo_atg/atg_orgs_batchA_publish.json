@@ -1,0 +1,266 @@
+[
+  {
+    "slug": "aaif-goose",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "ag2ai",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "aider-ai",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "anomalyco",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "anthropic",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "browser-use",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "browserbase",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "bytedance",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "cherryhq",
+    "company|lab|community|foundation": "community",
+    "public|late_stage|early_stage|bootstrapped|community": "community",
+    "high|medium|low|none": "medium",
+    "high|medium|low": "medium",
+    "raw organization handles -> this slug": "CherryHQ"
+  },
+  {
+    "slug": "cline",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "continuedev",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "coze-dev",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "crewaiinc",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "deepset-ai",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "flowiseai",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "gitlawb",
+    "company|lab|community|foundation": "community",
+    "public|late_stage|early_stage|bootstrapped|community": "community",
+    "high|medium|low|none": "low",
+    "high|medium|low": "medium",
+    "raw organization handles -> this slug": "Gitlawb"
+  },
+  {
+    "slug": "huggingface",
+    "company|lab|community|foundation": "company",
+    "public|late_stage|early_stage|bootstrapped|community": "late_stage",
+    "high|medium|low|none": "medium",
+    "high|medium|low": "high",
+    "raw organization handles -> this slug": "huggingface"
+  },
+  {
+    "slug": "iofficeai",
+    "company|lab|community|foundation": "community",
+    "public|late_stage|early_stage|bootstrapped|community": "community",
+    "high|medium|low|none": "low",
+    "high|medium|low": "medium",
+    "raw organization handles -> this slug": "iOfficeAI"
+  },
+  {
+    "slug": "karpathy",
+    "company|lab|community|foundation": "community",
+    "public|late_stage|early_stage|bootstrapped|community": "community",
+    "high|medium|low|none": "high",
+    "high|medium|low": "high",
+    "raw organization handles -> this slug": "karpathy"
+  },
+  {
+    "slug": "langchain-ai",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "langflow-ai",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "langgenius",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "letta-ai",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "mem0ai",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "n8n-io",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "obra",
+    "company|lab|community|foundation": "community",
+    "public|late_stage|early_stage|bootstrapped|community": "community",
+    "high|medium|low|none": "low",
+    "high|medium|low": "medium",
+    "raw organization handles -> this slug": "obra"
+  },
+  {
+    "slug": "open-webui",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "openai",
+    "company|lab|community|foundation": "lab",
+    "public|late_stage|early_stage|bootstrapped|community": "late_stage",
+    "high|medium|low|none": "high",
+    "high|medium|low": "high",
+    "raw organization handles -> this slug": "openai;OpenAI"
+  },
+  {
+    "slug": "openhands",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "run-llama",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "skyvern-ai",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "swe-agent",
+    "company|lab|community|foundation": "unknown",
+    "public|late_stage|early_stage|bootstrapped|community": "inferred from Agents.organization",
+    "high|medium|low|none": null,
+    "high|medium|low": null,
+    "raw organization handles -> this slug": null
+  },
+  {
+    "slug": "zhayujie",
+    "company|lab|community|foundation": "community",
+    "public|late_stage|early_stage|bootstrapped|community": "community",
+    "high|medium|low|none": "low",
+    "high|medium|low": "medium",
+    "raw organization handles -> this slug": "zhayujie"
+  }
+]

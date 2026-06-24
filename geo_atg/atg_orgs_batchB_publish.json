@@ -1,0 +1,322 @@
+[
+  {
+    "id": "affaan-m",
+    "name": "affaan-m",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "agentscope-ai",
+    "name": "agentscope-ai",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "alibaba",
+    "name": "alibaba",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "assafelovic",
+    "name": "assafelovic",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "bytedance",
+    "name": "bytedance",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "composiohq",
+    "name": "ComposioHQ",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "copilotkit",
+    "name": "CopilotKit",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "danny-avila",
+    "name": "danny-avila",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "earendil-works",
+    "name": "earendil-works",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "elizaos",
+    "name": "elizaOS",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "eosphoros-ai",
+    "name": "eosphoros-ai",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "farion1231",
+    "name": "farion1231",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "foundationagents",
+    "name": "FoundationAgents",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "getzep",
+    "name": "getzep",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "google",
+    "name": "Google",
+    "org_type": "company",
+    "funding_stage": "public",
+    "enterprise_presence": "high",
+    "ecosystem_weight": "high",
+    "github_handles": "google;Google;google-deepmind",
+    "source_url": null
+  },
+  {
+    "id": "hkuds",
+    "name": "HKUDS",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "hmbown",
+    "name": "Hmbown",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "infiniflow",
+    "name": "infiniflow",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "jackwener",
+    "name": "jackwener",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "jeecgboot",
+    "name": "jeecgboot",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "khoj-ai",
+    "name": "khoj-ai",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "kilo-org",
+    "name": "Kilo-Org",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "mintplex-labs",
+    "name": "Mintplex-Labs",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "nousresearch",
+    "name": "NousResearch",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "openai",
+    "name": "OpenAI",
+    "org_type": "lab",
+    "funding_stage": "late_stage",
+    "enterprise_presence": "high",
+    "ecosystem_weight": "high",
+    "github_handles": "openai;OpenAI",
+    "source_url": null
+  },
+  {
+    "id": "oraios",
+    "name": "oraios",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "prefecthq",
+    "name": "PrefectHQ",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "simstudioai",
+    "name": "simstudioai",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "thedotmack",
+    "name": "thedotmack",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "vercel-labs",
+    "name": "vercel-labs",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "yeachan-heo",
+    "name": "Yeachan-Heo",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  },
+  {
+    "id": "zai-org",
+    "name": "zai-org",
+    "org_type": "unknown",
+    "funding_stage": "inferred from Agents.organization",
+    "enterprise_presence": null,
+    "ecosystem_weight": null,
+    "github_handles": null,
+    "source_url": "inferred"
+  }
+]
