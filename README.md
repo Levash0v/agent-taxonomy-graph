@@ -60,3 +60,17 @@ SPACE_ID=<target-space-id> \
 ATG_AGENTS_JSON=geo_atg/atg_agents_batchA_publish.json \
 ATG_ORGS_JSON=geo_atg/atg_orgs_batchA_publish.json \
 bun run 40_atg_publish_agents.ts
+```
+
+## Production Proposal Workflow
+
+The current data/ontology proposal has been submitted to the Geo AI space for DAO review.
+
+The consolidated ATG proposal workflow is prepared through:
+
+- `93_atg_clean_ai_consolidated_patch_plan.py` - builds the cleanup/enrichment plan for existing AI-space agent cards.
+- `94_atg_existing_only_consolidated_dry_run.ts` - builds an existing-card-only dry-run.
+- `95_atg_batch_publish_preflight.py` - validates batch readiness before publication.
+- `96_atg_build_support_bootstrap_map.py` - prepares support/reuse bootstrap mapping.
+- `97_atg_all_in_consolidated_dry_run.ts` - builds the all-in data/ontology dry-run.
+- `88_atg_publish_reviewed_ops.ts` - publishes a reviewed ops file after explicit confirmation.

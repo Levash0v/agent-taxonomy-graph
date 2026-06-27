@@ -1,8 +1,10 @@
 /**
+ * 40_atg_publish_agents.ts
  * Idempotent batch publisher for ATG agents to Geo Protocol testnet.
  * Reads current state first, skips anything already present.
  *
  * Run: DRY_RUN=1 bun run 40_atg_publish_agents.ts
+ *      DRY_RUN=1 AGENT=huggingface-smolagents bun run 40_atg_publish_agents.ts
  *      bun run 40_atg_publish_agents.ts
  */
 
@@ -583,13 +585,19 @@ function normalizeDateValue(value: string | null | undefined): string | null {
   return null;
 }
 
+const URL_PROPS = [
+  { field: "website_url", prop: PROPERTIES.web_url },
+  { field: "github_url",  prop: PROP_GITHUB },
+  { field: "docs_url",    prop: PROP_DOCS },
+  { field: "x_url",       prop: PROP_X },
+] as const;
+
 function agentValues(agent: AtgAgent): any[] {
-  const values: any[] = [
-    { property: PROPERTIES.web_url, type: "text", value: agent.website_url },
-    { property: PROP_GITHUB,        type: "text", value: agent.github_url },
-  ];
-  if (agent.docs_url) values.push({ property: PROP_DOCS, type: "text", value: agent.docs_url });
-  if (agent.x_url)    values.push({ property: PROP_X,    type: "text", value: agent.x_url });
+  const values: any[] = [];
+  if (agent.website_url) values.push({ property: PROPERTIES.web_url, type: "text", value: agent.website_url });
+  if (agent.github_url)  values.push({ property: PROP_GITHUB,        type: "text", value: agent.github_url });
+  if (agent.docs_url)    values.push({ property: PROP_DOCS, type: "text", value: agent.docs_url });
+  if (agent.x_url)       values.push({ property: PROP_X,    type: "text", value: agent.x_url });
   if (Number.isFinite(agent.stars_at_collection) && agent.stars_at_collection > 0) {
     values.push({ property: PROP_STARS, type: "integer", value: agent.stars_at_collection });
   }
@@ -597,6 +605,12 @@ function agentValues(agent: AtgAgent): any[] {
   if (dateValue) values.push({ property: PROP_RELDATE, type: "date", value: dateValue });
   if (agent.skills_count != null) values.push({ property: PROP_SKILLS, type: "integer", value: agent.skills_count });
   return values;
+}
+
+function agentUnset(agent: AtgAgent): { property: string }[] {
+  return URL_PROPS
+    .filter(({ field }) => !agent[field as keyof AtgAgent])
+    .map(({ prop }) => ({ property: prop }));
 }
 
 // ─── Origin text generator ────────────────────────────────────────────────────
@@ -649,6 +663,7 @@ for (const agent of agents) {
       name: agent.name,
       description: agent.description,
       values: agentValues(agent),
+      unset: agentUnset(agent),
     });
     ops.push(...updateOps);
     console.log(`  [update] Agent scalar properties`);
@@ -664,6 +679,7 @@ for (const agent of agents) {
         name: agent.name,
         description: agent.description,
         values: [...agentValues(agent), { property: PROP_ACTIVE, type: "boolean" as const, value: true }],
+        unset: agentUnset(agent),
       });
       ops.push(...updateOps);
       console.log(`  [update] Agent scalar properties`);

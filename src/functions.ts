@@ -126,8 +126,8 @@ export async function publishOps(ops: Op[], editName: string) {
     space(id: "${spaceId}") {
       type
       address
-      membersList { memberSpaceId }
-      editorsList { memberSpaceId }
+      membersList(first: 1000) { memberSpaceId }
+      editorsList(first: 1000) { memberSpaceId }
     }
   }`);
 
@@ -167,26 +167,36 @@ export async function publishOps(ops: Op[], editName: string) {
     const callerSpaceId: string = callerSpace.id;
     console.log(`  Caller personal space: ${callerSpaceId}`);
 
-    // Verify the caller's personal space is a member or editor of the DAO
+    const daoVotingMode = process.env.DAO_VOTING_MODE === "FAST" ? "FAST" : "SLOW";
+    console.log(`  DAO voting mode: ${daoVotingMode}`);
+
+    // Verify the caller's personal space can submit this DAO edit.
+    // SLOW proposals can be submitted by members. FAST path is more restricted
+    // and reverts with InvalidFromSpace when the caller space is only a member.
     const members: Array<{ memberSpaceId: string }> =
       spaceData.space.membersList;
     const editors: Array<{ memberSpaceId: string }> =
       spaceData.space.editorsList;
-    const allCandidates = [...members, ...editors];
-    const isMemberOrEditor = allCandidates.some(
+    const isMember = members.some(
       (m) => m.memberSpaceId === callerSpaceId,
     );
+    const isEditor = editors.some(
+      (e) => e.memberSpaceId === callerSpaceId,
+    );
 
-    if (!isMemberOrEditor) {
+    const canPropose =
+      daoVotingMode === "FAST" ? isEditor : (isMember || isEditor);
+
+    if (!canPropose && process.env.ALLOW_DAO_MEMBER_PROPOSE !== "1") {
+      const roleHint = isMember ? "member, but not editor" : "not member/editor";
+      const requiredRole = daoVotingMode === "FAST" ? "editor access" : "member or editor access";
       throw new Error(
-        `Your personal space (${callerSpaceId}) is not a member or editor of DAO space ${spaceId}. ` +
+        `Your personal space (${callerSpaceId}) is ${roleHint} of DAO space ${spaceId}. ` +
+          `${daoVotingMode} publish path requires ${requiredRole}; otherwise the DAO contract can revert with InvalidFromSpace(). ` +
           `Members: ${members.map((m) => m.memberSpaceId).join(", ")}  ` +
           `Editors: ${editors.map((e) => e.memberSpaceId).join(", ")}`,
       );
     }
-
-    const daoVotingMode = process.env.DAO_VOTING_MODE === "FAST" ? "FAST" : "SLOW";
-    console.log(`  DAO voting mode: ${daoVotingMode}`);
 
     const result = await daoSpace.proposeEdit({
       name: editName,
